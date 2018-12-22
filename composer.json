@@ -14,8 +14,8 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/compilerexe/lara-faster"
+            "type": "composer",
+            "url": "https://packagist.org/packages/compilerexe/larafaster"
         }
     ],
 }
