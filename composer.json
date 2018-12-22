@@ -1,5 +1,5 @@
 {
-    "name": "larafaster",
+    "name": "laravel/larafaster",
     "description": "Faster initial your project.",
     "keywords": ["laravel"],
     "license": "Compiler Exe",
