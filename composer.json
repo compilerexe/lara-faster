@@ -1,0 +1,12 @@
+{
+    "name": "lara-faster",
+    "description": "Faster initial your project.",
+    "keywords": ["laravel"],
+    "license": "Compiler Exe",
+    "authors": [
+        {
+            "name": "Prawared Bowonphattharawadi",
+            "email": "compilerexe@gmail.com"
+        }
+    ]
+}
