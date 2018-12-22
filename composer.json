@@ -8,5 +8,8 @@
             "name": "Prawared Bowonphattharawadi",
             "email": "compilerexe@gmail.com"
         }
-    ]
+    ],
+    "repositories": [
+        "url" => "https://github.com/compilerexe/lara-faster"
+    ],
 }
