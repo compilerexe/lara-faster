@@ -7,9 +7,6 @@
 		"name": "Prawared Bowonphattharawadi",
 		"email": "compilerexe@gmail.com"
 	}],
-	"require": {
-		"php": ">=7.2.10"
-	},
 	"repositories": [{
 			"type": "composer",
 			"url": "https://packagist.org/packages/compilerexe/larafaster"
