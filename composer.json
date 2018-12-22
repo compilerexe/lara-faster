@@ -10,6 +10,8 @@
         }
     ],
     "repositories": [
-        "url" => "https://github.com/compilerexe/lara-faster"
+        {
+            "url": "https://github.com/compilerexe/lara-faster"
+        }
     ],
 }
