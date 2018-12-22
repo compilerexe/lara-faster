@@ -2,7 +2,7 @@
 	"name": "compilerexe/larafaster",
 	"description": "Faster initial your project.",
 	"keywords": ["laravel"],
-	"license": "Compiler Exe",
+	"license": "",
 	"authors": [{
 		"name": "Prawared Bowonphattharawadi",
 		"email": "compilerexe@gmail.com"
